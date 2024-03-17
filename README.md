@@ -1,6 +1,6 @@
 # XML_Database_Modeling
 
-CONTRIBUTORS: elizaveta.danilina@edu.dsti.institute, aymen.dhaouadi@edu.dsti.institute, henok.agbodjogbe@edu.dsti.institute
+CONTRIBUTORS: elizaveta.danilina@edu.dsti.institute, aymen.dhaouadi.da@gmail.com, henok.agbodjogbe@edu.dsti.institute
 
 Project:
 -------
